@@ -79,7 +79,7 @@
 						echo "<option value=Cliente>Cliente</option>";
 
 					echo "</select>";
-					echo "<input type='submit' value='Cargar formulario de registro'></input>";
+					echo "<input type='submit' value='Cargar el formulario de registro'></input>";
 
 				echo "</form>";
 
