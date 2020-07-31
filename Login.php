@@ -21,7 +21,7 @@
 <br>
 
 <head>
-	<h1 style="color: blue">PAGOS EN LINEA</h1>
+	<h1 style="color: blue">PAGOS EN LINEA 2.0</h1>
 	<h3 >INICIO DE SESIÓN</h3>
 </head>
 <body bgcolor="dde1e6">
